@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Nawaz Royesh<br>Data Analyst and Database Developer <br>I’m interested in growing as a Senior Data Analyst .<br>Ask me about PHP , Python , R and Java<br>You can contact me at nawaz.royesh@gmail.com 
+I am Nawaz Royesh<br>Data Analyst and Database Developer <br>I’m interested in growing as a Senior Data Analyst .<br>Ask me about ASP.NET , C#, SQL , SQL Server , PHP , Python , R and Java<br>You can contact me at nawaz.royesh@gmail.com 
 
 
 # 💻 Tech Stack:
